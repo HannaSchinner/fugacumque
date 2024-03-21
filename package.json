@@ -1,0 +1,51 @@
+{
+  "name": "fugacumque",
+  "version": "1.0.0",
+  "description": "AOP for JS with before, around, on, afterReturning, afterThrowing, after advice, and pointcut support",
+  "keywords": [
+    "impedit",
+    "aspect",
+    "cujo"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/cujojs/meld"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/HannaSchinner/fugacumque.git/issues"
+  },
+  "maintainers": [
+    {
+      "name": "Brian Cavalier",
+      "web": "http://hovercraftstudios.com"
+    },
+    {
+      "name": "John Hann",
+      "web": "http://unscriptable.com"
+    }
+  ],
+  "devDependencies": {
+    "buster": "~0.6"
+  },
+  "main": "meld",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "buster test -e node"
+  },
+  "author": "AmieKunde",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HannaSchinner/fugacumque.git"
+  },
+  "homepage": "https://github.com/HannaSchinner/fugacumque.git"
+}
